@@ -1,0 +1,39 @@
+header {
+  background-color: #012340;
+}
+
+nav {
+  color: #04d939;
+  list-style: none;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+main {
+  background-color: #012340;
+  color: #04d939;
+  font-family: "Bebas Neue", sans-serif;
+  float: left;
+  
+}
+aside {
+  float: right;
+  
+}
+
+ul {
+  font-family: "Cormorant Garamond", serif;
+  list-style: none;
+}
+
+li {
+  font-family: "Cormorant Garamond", serif;
+}
+
+footer {
+  font-family: "Cormorant Garamond", serif;
+}
+
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+}
+
