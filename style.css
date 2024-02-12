@@ -13,27 +13,31 @@ main {
   color: #04d939;
   font-family: "Bebas Neue", sans-serif;
   float: left;
-  
+  padding: 100px;
 }
 aside {
   float: right;
-  
+  background-color: #012340;
+  padding: 100px;
 }
 
 ul {
   font-family: "Cormorant Garamond", serif;
   list-style: none;
+  background-color: #012340;
 }
 
 li {
   font-family: "Cormorant Garamond", serif;
+  color: #03a63c;
 }
 
 footer {
   font-family: "Cormorant Garamond", serif;
+  background-color: #012340;
 }
 
 h1 {
-    font-family: "Bebas Neue", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
+  color: #04d939;
 }
-
